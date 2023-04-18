@@ -1,2 +1,2 @@
 # hello-world
-Learning github
+Learning github. This readme file is confusing - need to get to a fully working repo somehow...
